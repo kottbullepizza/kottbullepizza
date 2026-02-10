@@ -2,7 +2,7 @@
 
 <!-- <img width="30px" alt="waving-gif" src="https://github.com/user-attachments/assets/02f47aeb-054c-4af1-9bfa-3e70c9d45323" /> -->
 
-I'm **Stefan**, a first-year Computer Engineering student at Chalmers University of Technology in Sweden. I enjoy jumping into projects out of curiosity and then figuring things out though hands-on implementation as I go. So far, I have learned enough to become somewhat proficient in Java, as well as gained a brief understanding of how microcontrollers work and how to utilize them.
+I'm **Stefan**, a first-year Computer Engineering student at Chalmers University of Technology in Sweden. I enjoy jumping into projects out of curiosity and then figuring things out through hands-on implementation as I go. So far, I have learned enough to become somewhat proficient in Java, as well as gained a brief understanding of how microcontrollers work and how to utilize them.
 
 ---
 
