@@ -9,6 +9,7 @@ I'm **Stefan**, a first-year Computer Engineering student at Chalmers University
 **Some stuff I built:**
 - [Arduino UNO Chess Clock](https://github.com/kottbullepizza/Arduino-UNO-Chess-Clock) - A physical, functional chess clock built using only an Arduino Starter kit.
 - [Unbeatable Tic Tac Toe](https://github.com/kottbullepizza/Unbeatable-TicTacToe) - A Tic Tac Toe GUI, game-playing engine and simulator for large-scale tracking and testing.
+<!-- - [Datateknik Logo Refinement] I noticed the Computer Engineering student division's logo at Chalmers had several alignment issues and lacked high-res files, so I rebuilt it from scratch in Figma to fix the geometry and kerning. -->
 - To be continued...
 
 ---
