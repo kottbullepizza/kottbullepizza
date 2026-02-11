@@ -15,16 +15,13 @@ I'm **Stefan**, a first-year Computer Engineering student at Chalmers University
 ---
 
 **Fun facts:**
-- I redesigned the official logo for the Computer Engineering Division at Chalmers University of Technology
+- I redesigned the standardized logo for the Computer Engineering Division at Chalmers University of Technology
 - I hold an offical FIDE chess rating over 2100 along with 2600 on chess.com
 - I speak russian fluently (Swedish-born with Ukrainian roots)
 - Star Wars I watched have not
 
 <!--
-
-**kottbullepizza/kottbullepizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+further ideas:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
