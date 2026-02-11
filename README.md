@@ -14,6 +14,7 @@ I'm **Stefan**, a first-year Computer Engineering student at Chalmers University
 ---
 
 **Fun facts:**
+- I redesigned the official logo for the Computer Engineering Division at Chalmers University of Technology
 - I hold an offical FIDE chess rating over 2100 along with 2600 on chess.com
 - I speak russian fluently (Swedish-born with Ukrainian roots)
 - Star Wars I watched have not
