@@ -1,4 +1,4 @@
-### Hi there! <img width="40px" alt="waving-gif" src="https://github.com/user-attachments/assets/9c0a0212-8378-4614-9077-7063a9fb77ca" />
+### Hi there!
 
 <!-- <img width="30px" alt="waving-gif" src="https://github.com/user-attachments/assets/02f47aeb-054c-4af1-9bfa-3e70c9d45323" /> -->
 
