@@ -1,6 +1,8 @@
 ### Hi there!
 
-I'm **Stefan**, a first-year Computer Engineering student at Chalmers University of Technology in Sweden. I enjoy jumping into projects out of curiosity and then figuring things out through hands-on implementation as I go. So far, I have learned enough to become somewhat proficient in Java, JavaScript and Python, as well as gained a brief understanding of how microcontrollers work under the hood and how to utilize them.
+I'm **Stefan**, a first-year Computer Engineering student at Chalmers University of Technology in Sweden. I enjoy jumping into projects out of curiosity and then figuring things out through hands-on implementation as I go.
+
+I'm currently working on [konzics.com](https://konzics.com)
 
 ---
 
